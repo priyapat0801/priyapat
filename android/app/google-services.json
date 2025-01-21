@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "470291438854",
+    "firebase_url": "https://onlinefirebase-b70cd-default-rtdb.firebaseio.com",
+    "project_id": "onlinefirebase-b70cd",
+    "storage_bucket": "onlinefirebase-b70cd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470291438854:android:1b7a7a28324bb05a709287",
+        "android_client_info": {
+          "package_name": "com.example.onlineap_mink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbRXy660I-LofaS7OTCuPxqABZB75Br0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
